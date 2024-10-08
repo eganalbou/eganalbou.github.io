@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eganalbou.github.io/sitemap.html.gz
+Sitemap: https://eganalbou.github.io/app/sitemap.html.gz
+Sitemap: https://eganalbou.github.io/assets/sitemap.html.gz
+Sitemap: https://eganalbou.github.io/css/sitemap.html.gz
+Sitemap: https://eganalbou.github.io/includes/sitemap.html.gz
+Sitemap: https://eganalbou.github.io/item/sitemap.html.gz
+Sitemap: https://eganalbou.github.io/src/sitemap.html.gz
